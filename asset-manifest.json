@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cyberpunk/static/css/main.6766fcfe.chunk.css",
+    "main.js": "/cyberpunk/static/js/main.29ea1999.chunk.js",
+    "main.js.map": "/cyberpunk/static/js/main.29ea1999.chunk.js.map",
+    "runtime-main.js": "/cyberpunk/static/js/runtime-main.bbfde25d.js",
+    "runtime-main.js.map": "/cyberpunk/static/js/runtime-main.bbfde25d.js.map",
+    "static/js/2.0f73118e.chunk.js": "/cyberpunk/static/js/2.0f73118e.chunk.js",
+    "static/js/2.0f73118e.chunk.js.map": "/cyberpunk/static/js/2.0f73118e.chunk.js.map",
+    "index.html": "/cyberpunk/index.html",
+    "precache-manifest.51b96831a0f08ce5a31bc49c4818e5c3.js": "/cyberpunk/precache-manifest.51b96831a0f08ce5a31bc49c4818e5c3.js",
+    "service-worker.js": "/cyberpunk/service-worker.js",
+    "static/css/main.6766fcfe.chunk.css.map": "/cyberpunk/static/css/main.6766fcfe.chunk.css.map",
+    "static/js/2.0f73118e.chunk.js.LICENSE.txt": "/cyberpunk/static/js/2.0f73118e.chunk.js.LICENSE.txt",
+    "static/media/cyberpunk-logo.svg": "/cyberpunk/static/media/cyberpunk-logo.9a12b5fc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfde25d.js",
+    "static/js/2.0f73118e.chunk.js",
+    "static/css/main.6766fcfe.chunk.css",
+    "static/js/main.29ea1999.chunk.js"
+  ]
+}
