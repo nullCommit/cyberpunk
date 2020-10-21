@@ -8,7 +8,7 @@ import './styles/landing.css';
 
 import Countdown from './components/Countdown';
 import logoImg from './images/cyberpunk-logo.svg';
-import samuraiLogoImg from './images/samurai-logo.svg';
+// import samuraiLogoImg from './images/samurai-logo.svg';
 
 function App() {
   return (
@@ -44,7 +44,7 @@ function App() {
               nihil, atque quas.
             </p>
             <div className='grid-btn'>
-              <a href='' className='btn'>
+              <a className='btn'>
                 Look this <BsArrowRight />
               </a>
             </div>
@@ -60,7 +60,7 @@ function App() {
               neque magnam totam inventore? Minus!
             </p>
             <div className='grid-btn'>
-              <a href='' className='btn'>
+              <a className='btn'>
                 See more <BsArrowRight />
               </a>
             </div>
@@ -76,7 +76,7 @@ function App() {
               quos labore, magni eos?
             </p>
             <div className='grid-btn'>
-              <a href='' className='btn'>
+              <a className='btn'>
                 Go to albums <BsArrowRight />
               </a>
             </div>
@@ -101,7 +101,7 @@ function App() {
               totam at.
             </p>
             <div className='grid-btn'>
-              <a href='' className='btn'>
+              <a className='btn'>
                 Buy <BsArrowRight />
               </a>
             </div>
