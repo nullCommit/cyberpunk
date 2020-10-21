@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2f3337;
+  color: #fff;
+  font: 600 20px Sora, sans-serif;
+}
