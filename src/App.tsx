@@ -8,6 +8,7 @@ import './styles/landing.css';
 
 import Countdown from './components/Countdown';
 import logoImg from './images/cyberpunk-logo.svg';
+import samuraiLogoImg from './images/samurai-logo.svg';
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
           <h1>Countdown</h1>
           <Countdown />
         </div>
+        {/* <div className='samurai-container'>
+          <img src={samuraiLogoImg} alt='Samurai' className='samurai-logo' />
+        </div> */}
       </div>
       <div className='grid-container'>
         <div className='grid-1'>

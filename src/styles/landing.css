@@ -29,6 +29,20 @@
   padding-top: 5%;
 }
 
+#page-landing .content-wrapper .samurai-container {
+  width: 100%;
+
+  display: flex;
+  justify-content: flex-start;
+}
+
+#page-landing .content-wrapper .samurai-logo {
+  position: absolute;
+
+  width: 350px;
+  height: 350px;
+}
+
 /** ---- COUNTDOWN ----- **/
 .cowntdown-container {
   margin-top: 15%;
