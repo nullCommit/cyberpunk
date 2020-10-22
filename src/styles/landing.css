@@ -144,6 +144,7 @@
   background: #f9ef02;
   box-shadow: 0px 0px 8px #f9ef02;
   border-radius: 4px;
+  min-height: 165px;
 
   grid-area: grid-1;
 }
@@ -152,6 +153,7 @@
   background: #ff6050;
   box-shadow: 0px 0px 8px #ff6050;
   border-radius: 4px;
+  min-height: 165px;
 
   grid-area: grid-2;
 }
@@ -159,6 +161,7 @@
   background: #02d8f3;
   box-shadow: 0px 0px 8px #02d8f3;
   border-radius: 4px;
+  min-height: 185px;
 
   grid-area: grid-3;
 }
@@ -166,6 +169,7 @@
   background: #3fdf9b;
   box-shadow: 0px 0px 8px #3fdf9b;
   border-radius: 4px;
+  min-height: 265px;
 
   grid-area: grid-4;
 }
@@ -173,6 +177,7 @@
   background: #ff6050;
   box-shadow: 0px 0px 8px #ff6050;
   border-radius: 4px;
+  min-height: 125px;
 
   grid-area: grid-5;
 }
@@ -180,6 +185,7 @@
   background: #f9ef02;
   box-shadow: 0px 0px 8px #f9ef02;
   border-radius: 4px;
+  min-height: 180px;
 
   grid-area: grid-6;
 }
