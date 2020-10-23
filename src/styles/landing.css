@@ -91,7 +91,9 @@
 
   /* height: 100%; */
   width: 90vw;
+  height: 1000px;
   max-width: 1100px;
+  min-height: 980px;
 }
 
 .grid-container .box-content {
@@ -188,4 +190,12 @@
   min-height: 180px;
 
   grid-area: grid-6;
+}
+
+footer {
+  display: flex;
+  flex: 1;
+  height: 250px;
+  min-height: 200px;
+  width: 100%;
 }
