@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cyberpunk/static/css/main.2683753f.chunk.css",
+    "main.css": "/cyberpunk/static/css/main.9cb5564e.chunk.css",
     "main.js": "/cyberpunk/static/js/main.6811d63f.chunk.js",
     "main.js.map": "/cyberpunk/static/js/main.6811d63f.chunk.js.map",
     "runtime-main.js": "/cyberpunk/static/js/runtime-main.bbfde25d.js",
@@ -8,16 +8,16 @@
     "static/js/2.0f73118e.chunk.js": "/cyberpunk/static/js/2.0f73118e.chunk.js",
     "static/js/2.0f73118e.chunk.js.map": "/cyberpunk/static/js/2.0f73118e.chunk.js.map",
     "index.html": "/cyberpunk/index.html",
-    "precache-manifest.16fcf56845ac4ab936fa4772689291da.js": "/cyberpunk/precache-manifest.16fcf56845ac4ab936fa4772689291da.js",
+    "precache-manifest.fe68aacdcbaf46eeb0b6f3a02f69fefd.js": "/cyberpunk/precache-manifest.fe68aacdcbaf46eeb0b6f3a02f69fefd.js",
     "service-worker.js": "/cyberpunk/service-worker.js",
-    "static/css/main.2683753f.chunk.css.map": "/cyberpunk/static/css/main.2683753f.chunk.css.map",
+    "static/css/main.9cb5564e.chunk.css.map": "/cyberpunk/static/css/main.9cb5564e.chunk.css.map",
     "static/js/2.0f73118e.chunk.js.LICENSE.txt": "/cyberpunk/static/js/2.0f73118e.chunk.js.LICENSE.txt",
     "static/media/cyberpunk-logo.svg": "/cyberpunk/static/media/cyberpunk-logo.9a12b5fc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bbfde25d.js",
     "static/js/2.0f73118e.chunk.js",
-    "static/css/main.2683753f.chunk.css",
+    "static/css/main.9cb5564e.chunk.css",
     "static/js/main.6811d63f.chunk.js"
   ]
 }
