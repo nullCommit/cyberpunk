@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f24c4f30a819b5e8bb5a58c499f425b8",
+    "revision": "a8858730e3c9c67a3fa14fb182ec1ec5",
     "url": "/cyberpunk/index.html"
   },
   {
-    "revision": "2e2a552fd6ca0412e5e2",
-    "url": "/cyberpunk/static/css/main.e7ddf347.chunk.css"
+    "revision": "64b175057515da34f21c",
+    "url": "/cyberpunk/static/css/main.cb11e48b.chunk.css"
   },
   {
     "revision": "6d3604aad3ad5f03c888",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cyberpunk/static/js/2.0f73118e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e2a552fd6ca0412e5e2",
+    "revision": "64b175057515da34f21c",
     "url": "/cyberpunk/static/js/main.6811d63f.chunk.js"
   },
   {
