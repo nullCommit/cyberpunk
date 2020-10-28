@@ -17,7 +17,7 @@ function App() {
         <img src={logoImg} alt='Cyberpunk' />
         <div className='cowntdown-container'>
           <h1>Countdown</h1>
-          <Countdown />
+          <Countdown /> <span>Maybe?</span>
         </div>
         {/* <div className='samurai-container'>
           <img src={samuraiLogoImg} alt='Samurai' className='samurai-logo' />
@@ -40,8 +40,7 @@ function App() {
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. At
               praesentium quia delectus similique, impedit accusantium, facilis
-              officia rerum aut nisi qui porro cupiditate dolor nobis vitae iure
-              nihil, atque quas.
+              officia rerum aut nisi qui porro cupiditate dolor nobis.
             </p>
             <div className='grid-btn'>
               <a className='btn'>
@@ -108,7 +107,6 @@ function App() {
           </div>
         </div>
       </div>
-      <footer></footer>
     </div>
   );
 }

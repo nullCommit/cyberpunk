@@ -15,7 +15,7 @@ const Countdown = () => {
   const [completed, setCompleted] = useState(false);
 
   const now = new Date();
-  const targetDate = Date.parse('november 18, 2020 7:00:00 PM');
+  const targetDate = Date.parse('december 10, 2020 7:00:00 PM');
   const timeLeft = targetDate - now.getTime();
   const remainingDays = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
   const remainingHours = Math.floor((timeLeft / (1000 * 60 * 60)) % 24);
