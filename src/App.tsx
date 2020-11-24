@@ -17,7 +17,7 @@ function App() {
         <img src={logoImg} alt='Cyberpunk' />
         <div className='cowntdown-container'>
           <h1>Countdown</h1>
-          <Countdown /> <span>Maybe?</span>
+          <Countdown />
         </div>
         {/* <div className='samurai-container'>
           <img src={samuraiLogoImg} alt='Samurai' className='samurai-logo' />
